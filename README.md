@@ -35,3 +35,8 @@ I performed the necessary calculations and then created a Data Frame that summar
 A breakdown of the above district-wide summary on a per-school basis is provided in Table 2. This table also specifies the weather
 a school is of the district or Charter type on the "School Type" column.
 
+Schools were sorted by overall passing in desending order and displayed the top 5 rows and results weere saved in a DataFrame called "top_schools".
+Schools were sorted by overall passing in ascending order and displayed the top 5 rows and results weere saved in a DataFrame called "bottom_schools".
+
+A DataFrame was created that listed the average math score and reading score for students of each grade level(9th, 10th, 11th, 12th) at each school.
+
